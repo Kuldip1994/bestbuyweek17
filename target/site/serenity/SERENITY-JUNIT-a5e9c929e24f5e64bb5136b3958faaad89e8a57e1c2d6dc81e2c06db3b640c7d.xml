@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuyweek15.categoriesinfo.CategoriesCURDTest" skipped="0" tests="1" time="8.24" timestamp="2023-02-27T00:24:05.373Z[Europe/London]"><testcase classname="com.bestbuyweek15.categoriesinfo.CategoriesCURDTest" name="This will create a new categories"><error message="No such property: name for class: java.util.HashMap$Node&#10;Possible solutions: value" type="groovy.lang.MissingPropertyException">No such property: name for class: java.util.HashMap$Node
+Possible solutions: value</error><system-err>No such property: name for class: java.util.HashMap$Node
+Possible solutions: value&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1022)&#13;
+Script1.run(Script1.groovy:1)&#13;
+groovy.lang.GroovyShell.evaluate(GroovyShell.java:585)&#13;
+groovy.lang.GroovyShell.evaluate(GroovyShell.java:623)&#13;
+groovy.lang.GroovyShell.evaluate(GroovyShell.java:594)&#13;
+io.restassured.internal.path.json.JSONAssertion.eval(JSONAssertion.groovy:80)&#13;
+io.restassured.internal.path.json.JSONAssertion.getAsJsonObject(JSONAssertion.groovy:46)&#13;
+io.restassured.internal.path.json.JSONAssertion.getResult(JSONAssertion.groovy:28)&#13;
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)&#13;
+io.restassured.internal.RestAssuredResponseOptionsGroovyImpl.path(RestAssuredResponseOptionsGroovyImpl.groovy:398)&#13;
+io.restassured.internal.RestAssuredResponseOptionsImpl.path(RestAssuredResponseOptionsImpl.java:200)&#13;
+com.bestbuyweek15.categoriesinfo.CategoriesCURDTest.test002(CategoriesCURDTest.java:68)&#13;
+</system-err></testcase></testsuite>

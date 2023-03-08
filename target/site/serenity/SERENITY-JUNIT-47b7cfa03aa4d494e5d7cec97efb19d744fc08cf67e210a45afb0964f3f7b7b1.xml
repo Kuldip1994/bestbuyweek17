@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuyweek15.productinfo.ProductCURDSteps" skipped="0" tests="1" time="7.63" timestamp="2023-03-01T00:27:01.970Z[Europe/London]"><testcase classname="com.bestbuyweek15.productinfo.ProductCURDSteps" name="verify if product is created"><error message="java.lang.Integer cannot be cast to java.lang.String" type="java.lang.ClassCastException">java.lang.Integer cannot be cast to java.lang.String</error><system-err>java.lang.Integer cannot be cast to java.lang.String&#13;
+com.bestbuyweek15.productinfo.ProductCURDSteps.test002(ProductCURDSteps.java:47)&#13;
+</system-err></testcase></testsuite>
